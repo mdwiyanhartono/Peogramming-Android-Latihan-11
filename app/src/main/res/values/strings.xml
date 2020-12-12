@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Latihan11</string>
+    <string name="imgbanner">Picture</string>
+    <string name="textmainheader">Login Page</string>
+    <string name="textusername">Username</string>
+    <string name="autoedittextusername_Hint">Enter Username</string>
+    <string name="textpassword">Password</string>
+    <string name="edittextpassword_Hint">Enter Password</string>
+    <string name="btnlogin">Login</string>
+    <string name="actionlanguage">Setting Language</string>
+    <string name="textviewWelcome">Welcome</string>
+    <string name="msgboxlock">You are more than 3 times wrong. You cannot enter.</string>
+    <string name="msgboxusernameempty">Username cannot be empty.</string>
+    <string name="msgboxpassempty">Password cannot be empty.</string>
+    <string name="msgboxloginsuccess">Success.</string>
+    <string name="msgboxloginfailed">Username or password incorrect.</string>
+    <string name="info">Information</string>
+    <string name="fab">floatingbtn</string>
+    <string name="lableNama">Name</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="my_profile">MY Profile</string>
+    <string name="imageheader">imgHeader</string>
+</resources>

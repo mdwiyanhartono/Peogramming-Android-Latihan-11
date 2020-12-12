@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Latihan11</string>
+    <string name="imgbanner">Gambar</string>
+    <string name="textmainheader">Halaman Masuk</string>
+    <string name="textusername">Nama Pengguna</string>
+    <string name="autoedittextusername_Hint">Masukan Nama Pengguna</string>
+    <string name="textpassword">Kata Sandi</string>
+    <string name="edittextpassword_Hint">Masukan Kata Sandi</string>
+    <string name="btnlogin">Masuk</string>
+    <string name="actionlanguage">Pengaturan Bahasa</string>
+    <string name="textviewWelcome">Selamat Datang</string>
+    <string name="msgboxlock">Anda lebih dari 3 kali salah. Anda tidak bisa masuk.</string>
+    <string name="msgboxusernameempty">Nama pengguna tidak boleh kosong.</string>
+    <string name="msgboxpassempty">Kata sandi tidak boleh kosong.</string>
+    <string name="msgboxloginsuccess">Sukses.</string>
+    <string name="msgboxloginfailed">Nama pengguna atau kata sandi salah.</string>
+    <string name="info">Informasi</string>
+    <string name="fab">floatingbtn</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="my_profile">Data Diri Saya</string>
+</resources>
